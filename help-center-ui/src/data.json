@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Getting Started",
+        "description": "Learn how to get started with Abstract, from setting up your account to creating your first project."
+    },
+    {
+        "id": "2",
+        "title": "Workspace",
+        "description": "Understand how the workspace is organized and how to navigate through your projects."
+    },
+    {
+        "id": "3",
+        "title": "Collaboration",
+        "description": "Collaborate with your team members by sharing projects, commenting, and reviewing changes."
+    },
+    {
+        "id": "4",
+        "title": "Version Control",
+        "description": "Learn about version control and how to manage different versions of your projects."
+    },
+    {
+        "id": "5",
+        "title": "Integrations",
+        "description": "Discover the integrations available in Abstract and how to connect them to your workflow."
+    },
+    {
+        "id": "6",
+        "title": "Support",
+        "description": "Get help and support for any issues you may encounter while using Abstract."
+    }
+]
